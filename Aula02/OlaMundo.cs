@@ -1,7 +1,7 @@
 
 using System;
 
-class Ola{
+class OlaMundo{
 
 	public static void Main(string[] args){
 		Console.WriteLine("Ola Mundo");
